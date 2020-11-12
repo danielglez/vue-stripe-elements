@@ -1,5 +1,5 @@
 {
-  "name": "vue-stripe-elements-plus",
+  "name": "vue-stripe-elements-plus-dgv",
   "version": "0.3.2",
   "description": "Stripe Elements components for Vue",
   "main": "./dist/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fromatob/vue-stripe-elements.git"
+    "url": "git+https://github.com/danielglez/vue-stripe-elements.git"
   },
   "keywords": [
     "vue",
@@ -17,10 +17,7 @@
     "elements",
     "payment"
   ],
-  "author": {
-    "name": "fromAtoB GmbH",
-    "url": "https://fromatob.com"
-  },
+  "author": "fromAtoB GmbH (https://fromatob.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/fromatob/vue-stripe-elements/issues"
